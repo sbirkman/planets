@@ -1,5 +1,6 @@
 Some text first line
 second line of text
 and another line of text
+inserted this line, just because
 this is the last line
 not true, this is the last line
